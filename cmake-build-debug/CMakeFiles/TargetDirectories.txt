@@ -1,0 +1,3 @@
+/home/noname/ProgrammingGoBRRR/Clion/BinaryConverter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/noname/ProgrammingGoBRRR/Clion/BinaryConverter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noname/ProgrammingGoBRRR/Clion/BinaryConverter/cmake-build-debug/CMakeFiles/BinaryConverter.dir
